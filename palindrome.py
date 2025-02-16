@@ -1,10 +1,5 @@
-n=input("Enter any value : ")
-
-if n==n[::-1]:
-    print("its")
+x=input("Enter your value : ")
+if x==x[::-1]:
+    print("its a palidrom")
 else:
-    print("its not")
-
-  
-
-
+    print("it is not")
